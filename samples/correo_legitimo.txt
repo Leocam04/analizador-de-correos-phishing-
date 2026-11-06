@@ -1,0 +1,21 @@
+From: "María González - Gestión de Proyectos" <maria.gonzalez@empresa-tecnologia.com>
+Reply-To: maria.gonzalez@empresa-tecnologia.com
+Subject: Minuta de la reunión semanal y avances del sprint Q4
+
+Hola Carlos,
+
+Espero que estés teniendo una excelente semana. Te comparto el resumen de los puntos acordados en nuestra reunión de seguimiento del proyecto de ciberseguridad:
+
+1. Se completó la revisión de código del módulo de análisis estático en el repositorio interno.
+2. Las pruebas unitarias pasaron satisfactoriamente en el entorno de desarrollo.
+3. La presentación de resultados para el equipo de arquitectura queda programada para el próximo jueves a las 10:00 AM.
+
+Puedes consultar la documentación técnica actualizada en nuestro portal interno:
+https://docs.empresa-tecnologia.com/proyectos/sprint-q4
+
+Cualquier comentario o ajuste sobre el cronograma, quedo atenta por este medio.
+
+Saludos cordiales,
+María González
+Líder de Proyecto | Ingeniería de Software
+

